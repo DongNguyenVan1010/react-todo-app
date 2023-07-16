@@ -1,7 +1,7 @@
 import { Col, Row, Input, Typography, Radio, Select, Tag } from 'antd'
 import { useState } from 'react'
 import { useDispatch } from 'react-redux'
-import { priorityFilterChange, searchFilterChange, statusFilterChange } from '../../redux/action'
+import { priorityFilterChange, searchFilterChange, statusFilterChange } from '../../reducers/filters.actions'
 
 const { Search } = Input
 
