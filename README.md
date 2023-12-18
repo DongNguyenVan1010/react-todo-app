@@ -1,5 +1,5 @@
 # todo-app-core-redux
-Demo: https://todo-app-core-redux.vercel.app
+Demo: https://react-todo-app-orcin-ten.vercel.app/
 
 ## Description
 
